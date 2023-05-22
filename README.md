@@ -94,7 +94,7 @@ Las medidas que hemos recogido son:
 
 - Tiempo que se tarda en finalizar el proceso.
 
-Con un cronómetro se mide el tiempod desde que se muestra la web hasta que confirma y finaliza la compra.
+Con un cronómetro se mide el tiempod desde que se muestra la web hasta que confirma y finaliza la compra. 
 
 - Número de clicks realizados en total.
 
@@ -102,7 +102,7 @@ Con un contador se numeran el número de clicks que da incluyendo los útiles y 
 
 - Frustración durante la compra.
 
-Al acabar el proceso se le pregunta al usuario como se ha sentido interpretando sólo con un sí/no para la recogida del dato.
+Al acabar el proceso se le pregunta al usuario como se ha sentido interpretando sólo con un sí/no para la recogida del dato. Asimismo, hemos considerado que si ha tardado más de 2:40 minutos y ha dado más de 35 clicks, se considera un valor afirmativo para la frustración.
 
 
 A partir de esta contabilización hemos realizado un análisis a través de la técnica de AB Testing.
@@ -110,7 +110,29 @@ A partir de esta contabilización hemos realizado un análisis a través de la t
 
 ## 🏍️ Conclusiones:<a name='conclusion'/>
 
+Después de analizar cada una de las métricas hemos llegado a las siguientes conclusiones:
 
+- Tiempo
+
+El cambio de diseño supondrá una mejora de tiempo de un 87.08% con una probalidad de confianza 99.97% 
+
+
+
+ - Clicks
+
+El cambio de diseño supondrá una mejora de clicks de un 87.08% con una probalidad de confianza 99.97% 
+
+
+
+
+ - Frustración
+
+ El cambio de diseño supondrá una mejora de frustracion de un 44.89% con una probalidad de confianza 88.73% 
+
+ 
+
+
+En conclusión, el trabajo de UX/UI ha optimizado ampliamente la web en todos sus parámetros, demostrando así que la versión beta está mejorada y va a tener mejor resultado que la anterior. Con este proyecto hemos compartido la experiencia del trabajo colaborativo de forma satisfactoria, cumpliendo con los objetivos marcados desde cada parte.
 
 
 ## ⛓️ Estructura:<a name="estructura"/>
