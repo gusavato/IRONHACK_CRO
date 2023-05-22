@@ -93,10 +93,19 @@ Para la parte de análisis se ha observado una muestra de 60 personas, 30 de la 
 Las medidas que hemos recogido son:
 
 - Tiempo que se tarda en finalizar el proceso.
+
+Con un cronómetro se mide el tiempod desde que se muestra la web hasta que confirma y finaliza la compra.
+
 - Número de clicks realizados en total.
+
+Con un contador se numeran el número de clicks que da incluyendo los útiles y no útiles.
+
 - Frustración durante la compra.
 
-A partir de esta contabilización hemos realizado un análisis de ello a través de la técnica de AB Testing.
+Al acabar el proceso se le pregunta al usuario como se ha sentido interpretando sólo con un sí/no para la recogida del dato.
+
+
+A partir de esta contabilización hemos realizado un análisis a través de la técnica de AB Testing.
 
 
 ## 🏍️ Conclusiones:<a name='conclusion'/>
